@@ -11,6 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      title: "Game Launcher Excel 2024",
       debugShowCheckedModeBanner: false,
       home: HomeScreen(),
     );
